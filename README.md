@@ -1,2 +1,2 @@
-# semana01
-Exercicios realizados na primeira semana no curso FullStack Junior 
+# FullStack
+Exercicios realizados no curso FullStack Junior modulo 01
